@@ -13,4 +13,4 @@ Let us share what we ﬁgured out until now in order to ﬁnd a fast solution.
 
 •	For MCMF modeling, you will need cost and capacities on each edge. Determine them wisely to ﬁnd the maximum voltage.
 
-•	When the modeling is complete, you will ﬁnd the algorithm for MCMF problems. The algorithm needs to ﬁnd negative cycles and you are free to use the code and explanation in this link.
+•	When the modeling is complete, you will ﬁnd the algorithm for MCMF problems. The algorithm needs to ﬁnd negative cycles.
