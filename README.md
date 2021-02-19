@@ -10,5 +10,7 @@ I believe that this will be the last game of Joker. Let’s light up the sky!
 Let us share what we ﬁgured out until now in order to ﬁnd a fast solution.
 
 •	This problem is solvable with a minimum-cost maximum-ﬂow (MCMF) modeling ap-proach and we expect you to model the test cases accordingly. We are aware that MCMF might be unfamiliar to you, but an excellent programmer is the one who ﬁnds a way through in the darkness!
+
 •	For MCMF modeling, you will need cost and capacities on each edge. Determine them wisely to ﬁnd the maximum voltage.
+
 •	When the modeling is complete, you will ﬁnd the algorithm for MCMF problems. The algorithm needs to ﬁnd negative cycles and you are free to use the code and explanation in this link.
